@@ -12,6 +12,7 @@
 - npm install react-router-dom @mui/material @emotion/react @emotion/styled
 
 
+
 ## Running the Project
 
 1. Clone the repository.
@@ -20,6 +21,7 @@
 4. Run `npm run build`.
 5. Run `docker-compose up --build`.
 6. Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
+
 
 
 ## Process record
