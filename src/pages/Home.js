@@ -10,7 +10,9 @@ const Home = () => {
         <HomeImg />
       </div>
       <div className="home-content">
-        <h2 className="home-h2">Welcome to the User Management App</h2>
+        <h2 className="home-h2">
+          Welcome to <br/>
+          User Management App</h2>
         <div className="home-links">
           <Link to="/register" className="home-link">Register</Link>
           <Link to="/login" className="home-link">Login</Link>
