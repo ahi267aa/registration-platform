@@ -33,7 +33,7 @@
 ![postgresql create data](https://github.com/ahi267aa/registration-platform/assets/92345474/bbc7d844-a4b0-4528-b945-bb9bf1f66634)
 
 - HomePage
-![home page](https://github.com/ahi267aa/registration-platform/assets/92345474/ddbf2a53-b246-46d2-8565-fa37b74edb77)
+![home page](https://github.com/ahi267aa/registration-platform/assets/92345474/1e7106bd-e4f8-42ba-a68e-e689f1b5886b)
 
 - Register Page
 ![register page](https://github.com/ahi267aa/registration-platform/assets/92345474/1461bfce-45ba-4cbe-b7eb-00630035344b)
