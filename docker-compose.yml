@@ -4,9 +4,9 @@ services:
   db:
     image: postgres
     environment:
-      POSTGRES_USER: username
+      POSTGRES_USER: lucy
       POSTGRES_PASSWORD: password
-      POSTGRES_DB: yourdatabase
+      POSTGRES_DB: registion_platform
     volumes:
       - ./data/db:/var/lib/postgresql/data
     ports:
@@ -15,7 +15,7 @@ services:
   api:
     build: .
     environment:
-      DATABASE_URL: postgres://username:password@db:5432/yourdatabase
+      DATABASE_URL: postgres://lucy:password@db:5432/registion_platform
       JWT_SECRET: your_jwt_secret
     depends_on:
       - db
