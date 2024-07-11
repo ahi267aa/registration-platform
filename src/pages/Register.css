@@ -1,0 +1,76 @@
+/* Register.css */
+.register-container {
+    /* background-image: url('./background-image.jpg'); */
+    background-color: #dfdfdf;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+  }
+
+  .register-h2 {
+    margin: 0 0 0.8rem 0;
+    font-family: 'Poppins', sans-serif;
+    /* padding: 0.2rem 0; */
+    font-size: 3.2rem;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    -webkit-text-stroke: 0.5px #fff;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    /* background-image: url(../images/header_background.jpg); */
+    background-size: cover;
+    background-position: center;
+  }
+
+  .register-form {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    width: 20rem;
+    margin-top: 20px;
+  }
+  
+  .register-form input {
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .register-checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    width: 80%;
+    white-space:nowrap;
+  }
+
+  .register-checkbox a {
+    padding-left: 0.3rem; 
+  }
+
+  .register-form button {
+    padding: 10px 20px;
+    background: #00aaff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    width: 100%; /* Make button full width */
+    margin-top: 10px; /* Add space below inputs */
+  }
+  
+  .register-form button:hover {
+    background: #0077cc;
+  }
+  

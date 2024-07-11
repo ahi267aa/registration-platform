@@ -1,0 +1,85 @@
+/* Login.css */
+.login-container {
+    /* background-image: url('./background-image.jpg'); */
+    background-color: #dfdfdf;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column; /* Stack items vertically */
+  }
+
+  .login-h2 {
+    margin: 0 0 0.8rem 0;
+    font-family: 'Poppins', sans-serif;
+    /* padding: 0.2rem 0; */
+    font-size: 3.2rem;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    -webkit-text-stroke: 0.5px #fff;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    /* background-image: url(../images/header_background.jpg); */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-form {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    width: 20rem;
+    margin-top: 20px;
+  }
+  
+  .login-form input {
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .login-checkbox {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    width: 35%;
+    white-space:nowrap;
+  }
+
+  .login-form button {
+    padding: 10px 20px;
+    background: #00aaff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    width: 100%; /* Make button full width */
+    margin-top: 10px; /* Add space below inputs */
+  }
+  
+  .login-form button:hover {
+    background: #0077cc;
+  }
+  
+  .login-form label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .login-form label input {
+    margin-right: 10px;
+  }
+  
+  .login-form a {
+    color: #00aaff;
+  }
