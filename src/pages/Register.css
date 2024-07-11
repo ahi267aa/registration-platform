@@ -66,8 +66,8 @@
     border-radius: 5px;
     color: white;
     cursor: pointer;
-    width: 100%; /* Make button full width */
-    margin-top: 10px; /* Add space below inputs */
+    width: 100%;
+    margin-top: 10px;
   }
   
   .register-form button:hover {

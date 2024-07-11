@@ -16,7 +16,7 @@ services:
     build: .
     environment:
       DATABASE_URL: postgres://lucy:password@db:5432/registion_platform
-      JWT_SECRET: your_jwt_secret
+      JWT_SECRET: jwt_secret
     depends_on:
       - db
     ports:

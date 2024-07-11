@@ -11,10 +11,8 @@ app.use('/users', users);
 const auth = require('./routes/auth');
 app.use('/login', auth);
 
-// 提供靜態文件
 app.use(express.static(path.join(__dirname, 'public')));
 
-// 處理根路徑的請求
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
