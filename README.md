@@ -30,7 +30,7 @@
 ![docker running2](https://github.com/ahi267aa/registration-platform/assets/92345474/80f17f5f-5e09-45fb-8cfd-b286dff6f27f)
 
 - PostgreSQL dataset
-![postgresql create data](https://github.com/ahi267aa/registration-platform/assets/92345474/bbc7d844-a4b0-4528-b945-bb9bf1f66634)
+![postgresql create data](https://github.com/ahi267aa/registration-platform/assets/92345474/dd1f00dd-3ab1-4cfd-a22f-4d04957450aa)
 
 - HomePage
 ![home page](https://github.com/ahi267aa/registration-platform/assets/92345474/af3b805f-368e-4e81-8b88-d18e83354f76)
