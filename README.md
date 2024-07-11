@@ -1,5 +1,3 @@
-![home page](https://github.com/ahi267aa/registration-platform/assets/92345474/7ccb0ba7-0e23-4a60-ba4a-e848a095e0f0)![docker-compose build](https://github.com/ahi267aa/registration-platform/assets/92345474/06ebe362-9b72-4003-b5a8-5d673b2499b8)# User Registration/Login System
-
 ## Setup Instructions
 
 ### Prerequisites
