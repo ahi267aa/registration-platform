@@ -1,6 +1,7 @@
 ## Setup Instructions
 
 ### Prerequisites
+- NodeJs
 - Create React App
 - Docker
 - PostgreSQL
